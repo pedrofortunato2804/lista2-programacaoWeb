@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    width: 100%;
+    background-color: #b5dcb3;
+    height: 10vh;
+}
+.menu{
+    width: 30%;
+    background-color: #aaaaaa;
+    float: left;
+    height: 80vh;
+}
+.content{
+    width: 70%;
+    background-color: #eeeeee;
+    float: left;
+    height: 80vh;
+}
+.rodape{
+    width: 100%;
+    background-color: #b5dcb3;
+    height: 10vh;
+    clear: both;
+    text-align: center;
+}

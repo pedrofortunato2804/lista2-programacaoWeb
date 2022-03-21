@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #ffff99;
+}
+.nome{
+    text-align: center;
+    background-color: #cccccc;
+}
+.elementos{
+    padding: 3%;
+    padding-right: 0%;
+    width: 30%;
+    background-color: #f08275;
+    float: left;
+    height: 50vh;
+}
+.exp{
+    padding: 4%;
+    padding-right: 0%;
+    width: 30%;
+    background-color: #8cc9d9;
+    float: left;
+    height: 50vh;
+}
+.skill{
+    padding: 3%;
+    padding-right: 0%;
+    width: 30%;
+    background-color: #e6d9f2;
+    float: left;
+    height: 50vh;
+}
