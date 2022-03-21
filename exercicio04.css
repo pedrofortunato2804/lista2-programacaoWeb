@@ -1,0 +1,22 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+table{
+    width: 400px;
+}
+table, td, tr, th {
+    border: solid black 1px;
+}
+div{
+    width: 40vh
+}
+.title{
+    text-align: center;
+    font-style: italic;
+}
+.city{
+    border: 1px solid;
+    font-style: italic;
+    text-align: center;
+}
